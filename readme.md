@@ -11,7 +11,7 @@ I am an aspiring Web Developer in the Midwest, USA.
 <br>
 
 <h2> PROJECTS </h2>
-[I'm an inline-style link with title](https://jlsolito.github.io/TOP-LandingPage/ "Mock Up Landing Page")
+[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/)
 
 
 
