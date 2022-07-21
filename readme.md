@@ -11,7 +11,7 @@ I am an aspiring Web Developer in the Midwest, USA.
 <br>
 
 <h2> PROJECTS </h2>
-[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/)
+<a href="https://jlsolito.github.io/TOP-LandingPage/">Mock Up Landing Page</a>
 
 
 
