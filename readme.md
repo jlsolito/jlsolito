@@ -29,3 +29,6 @@
 ![icons8-microsoft-visio-48](https://user-images.githubusercontent.com/36279354/180920488-b347c620-5aa7-476c-9159-ad2d82aec1c5.png)
 ![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/36279354/180920492-855b87b5-7173-434a-8f9c-e118510664ca.png)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlsolito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
