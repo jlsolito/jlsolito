@@ -6,7 +6,7 @@
 
 :monocle_face: Learning about web development and currently studying JavaScript in the The Odin Project
 
-:surfing_man: Interested in Web Development, Finance, and Business Analysis
+:surfing_man: Interested in Web Development, Business Analysis, and personal finance
 
 
 ## PROJECTS
