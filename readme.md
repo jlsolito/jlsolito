@@ -10,7 +10,13 @@
 
 
 ## PROJECTS
-[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/) - Recreated a mockup landing page with HTML and CSS using Flexbox
+[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/) 
+  - Recreated a mockup landing page with HTML and CSS using Flexbox
+  - Will revisit later to make mobile-friendly
+ 
+ [Rock Paper Scissors game](https://jlsolito.github.io/TOP-RockPaperScissors/)
+  - Created Rock Paper Scissors game with basic HTML, CSS, and JS
+  - Current WIP
 
 
 ## LANGUAGES AND TOOLS
