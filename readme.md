@@ -10,7 +10,7 @@
 
 
 ## PROJECTS
-[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/)
+[Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/) - Recreated a mockup landing page with HTML and CSS using Flexbox
 
 
 ## LANGUAGES AND TOOLS
