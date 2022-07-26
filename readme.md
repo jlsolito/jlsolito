@@ -16,7 +16,7 @@
  
  [Rock Paper Scissors game](https://jlsolito.github.io/TOP-RockPaperScissors/)
   - Created Rock Paper Scissors game with basic HTML, CSS, and JS
-  - Current WIP
+  - Current WIP and game score is kept in console
 
 
 ## LANGUAGES AND TOOLS
