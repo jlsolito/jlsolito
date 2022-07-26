@@ -14,4 +14,18 @@
 
 
 ## LANGUAGES AND TOOLS
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>JavaScript</title><path d="M0 0h24v24H0V0zm22.034 18.276c-.175-1.095-.888-2.015-3.003-2.873-.736-.345-1.554-.585-1.797-1.14-.091-.33-.105-.51-.046-.705.15-.646.915-.84 1.515-.66.39.12.75.42.976.9 1.034-.676 1.034-.676 1.755-1.125-.27-.42-.404-.601-.586-.78-.63-.705-1.469-1.065-2.834-1.034l-.705.089c-.676.165-1.32.525-1.71 1.005-1.14 1.291-.811 3.541.569 4.471 1.365 1.02 3.361 1.244 3.616 2.205.24 1.17-.87 1.545-1.966 1.41-.811-.18-1.26-.586-1.755-1.336l-1.83 1.051c.21.48.45.689.81 1.109 1.74 1.756 6.09 1.666 6.871-1.004.029-.09.24-.705.074-1.65l.046.067zm-8.983-7.245h-2.248c0 1.938-.009 3.864-.009 5.805 0 1.232.063 2.363-.138 2.711-.33.689-1.18.601-1.566.48-.396-.196-.597-.466-.83-.855-.063-.105-.11-.196-.127-.196l-1.825 1.125c.305.63.75 1.172 1.324 1.517.855.51 2.004.675 3.207.405.783-.226 1.458-.691 1.811-1.411.51-.93.402-2.07.397-3.346.012-2.054 0-4.109 0-6.179l.004-.056z"/></svg>
+![icons8-sql-64](https://user-images.githubusercontent.com/36279354/180920289-bd994f34-5180-44f4-9ce3-be907dff0e4c.png)
+![icons8-html-5-48](https://user-images.githubusercontent.com/36279354/180919936-d8a0f580-7d01-4b40-a982-deb88a65b3c4.png)
+![icons8-css3-48](https://user-images.githubusercontent.com/36279354/180919947-9c4f1318-3b46-4417-9282-d1fac701742a.png)
+![icons8-javascript-48](https://user-images.githubusercontent.com/36279354/180919584-1b8c101c-9759-4d9c-a494-ba9e4086f617.png)
+![icons8-python-48](https://user-images.githubusercontent.com/36279354/180920303-bfcaa75a-5d9c-40cb-9f8e-cbc3a82444cc.png)
+![icons8-bash-48](https://user-images.githubusercontent.com/36279354/180921198-9a09cc6b-10a0-4a1c-b0af-f630268846a7.png)
+![icons8-c-key-48](https://user-images.githubusercontent.com/36279354/180921323-44cb8c9a-4159-42c7-804c-2bc5bc71f6da.png)
+![icons8-java-48](https://user-images.githubusercontent.com/36279354/180921206-4dfd3932-ab05-4284-a120-42f634802220.png)
+
+![icons8-visual-studio-48](https://user-images.githubusercontent.com/36279354/180921581-bb9b2592-f96d-4a13-adce-d61b2e952e66.png)
+![icons8-fedora-48](https://user-images.githubusercontent.com/36279354/180921181-5e11d73b-8851-446f-90f9-38eddb5452a8.png)
+![icons8-ubuntu-48](https://user-images.githubusercontent.com/36279354/180921186-c7abb374-d297-4201-9d30-64bd63cd3e8a.png)
+![icons8-microsoft-visio-48](https://user-images.githubusercontent.com/36279354/180920488-b347c620-5aa7-476c-9159-ad2d82aec1c5.png)
+![icons8-microsoft-excel-2019-48](https://user-images.githubusercontent.com/36279354/180920492-855b87b5-7173-434a-8f9c-e118510664ca.png)
+
