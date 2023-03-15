@@ -2,11 +2,11 @@
 
 ## ABOUT ME
 
-:man_technologist: I currently work as a Product Support Specialist and program financial reports and automated letters.
+:man_technologist: I have experience in IT Help Desk and have also been a Product Support Specialist for Property Management Software.
 
-:monocle_face: Learning about web development and currently studying JavaScript in the The Odin Project
+:monocle_face: Learning about data analytics
 
-:surfing_man: Interested in Web Development, Business Analysis, and personal finance
+:surfing_man: Interested in Business Intelligence, personal finance, and whatever helps automate my life
 
 
 ## PROJECTS
