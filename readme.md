@@ -10,11 +10,19 @@
 
 
 ## PROJECTS
+[Workout Tracker App]
+  - Created mobile app that logs workout progress, can switch between different types of workouts, and updates calisthenic
+exercises for progressive overloading
+  - Set up Google Sheets to store workout logs, toggle between upper and lower workouts, reference sheets to see previous
+progress and exercises, and randomize vertical jump exercises using functions such as VLookup/Index,
+Match/RegexMatch, Sort, and Filter
+  - Integrated spreadsheets with Google Appsheet for mobile use
+
 [Mock Up Landing Page](https://jlsolito.github.io/TOP-LandingPage/) 
   - Recreated a mockup landing page with HTML and CSS using Flexbox
   - Will revisit later to make mobile-friendly
  
- [Rock Paper Scissors game](https://jlsolito.github.io/TOP-RockPaperScissors/)
+[Rock Paper Scissors game](https://jlsolito.github.io/TOP-RockPaperScissors/)
   - Created Rock Paper Scissors game with basic HTML, CSS, and JS
   - Current WIP and game score is kept in console
 
